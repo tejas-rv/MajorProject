@@ -12,4 +12,3 @@ Enhancement Techniques for Underwater images
 * S. Yadav and K. Raj, "Underwater Image Enhancement via Color Balance and Stationary Wavelet Based Fusion," 2020 IEEE International Conference for Innovation in Technology (INOCON), 2020, pp. 1-5, doi: 10.1109/INOCON50539.2020.9298231.
 * W. Song, Y. Wang, D. Huang, A. Liotta and C. Perra, "Enhancement of Underwater Images With Statistical Model of Background Light and Optimization of Transmission Map," in IEEE Transactions on Broadcasting, vol. 66, no. 1, pp. 153-169, March 2020, doi: 10.1109/TBC.2019.2960942.
 * J. Lakshmi, K. Prasanti and S. Kalpana, "Visual Enhancement Techniques For Underwater Images," 2019 5th International Conference on Advanced Computing & Communication Systems (ICACCS), 2019, pp. 114-117, doi: 10.1109/ICACCS.2019.8728543.
-![image](https://user-images.githubusercontent.com/59774678/162122866-637bf40e-9376-4c4e-bd50-4fc7ce5e9031.png)
